@@ -1,0 +1,3 @@
+[submodule "helper/awesome-computer-vision"]
+	path = helper/awesome-computer-vision
+	url = git@github.com:jbhuang0604/awesome-computer-vision.git
