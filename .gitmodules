@@ -1,3 +1,6 @@
 [submodule "helper/awesome-computer-vision"]
 	path = helper/awesome-computer-vision
 	url = git@github.com:jbhuang0604/awesome-computer-vision.git
+[submodule "pytorch"]
+	path = pytorch
+	url = git@github.com:pytorch/pytorch.git
